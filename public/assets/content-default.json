@@ -1,0 +1,334 @@
+{
+ "team": [
+  {
+   "prenom": "Timothée",
+   "nom": "Stevens",
+   "role": "Président",
+   "team": "Bureau",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Skipper habitable",
+   "team": "Habitable",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Skipper J80",
+   "team": "J80",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Trésorier",
+   "team": "Bureau",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Responsable partenariats",
+   "team": "Bureau",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Responsable communication",
+   "team": "Bureau",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Tacticien",
+   "team": "Habitable",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Équipier d'avant",
+   "team": "J80",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Chef de l'Équipe Terre",
+   "team": "Équipe Terre",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Préparation technique et voilerie",
+   "team": "Équipe Terre",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  },
+  {
+   "prenom": "",
+   "nom": "",
+   "role": "Équipier réserviste",
+   "team": "Habitable",
+   "origine": "",
+   "motivation": "",
+   "photo": ""
+  }
+ ],
+ "budget": {
+  "already": 1000,
+  "lines": [
+   {
+    "label": "Location des voiliers de course",
+    "amount": 8500,
+    "detail": "Voilier habitable 38 à 40 pieds pour la semaine de course (6 500 €) et J80 (2 000 €)"
+   },
+   {
+    "label": "Inscriptions à la CCE",
+    "amount": 4500,
+    "detail": "Défi Mer 3 900 € (habitable et J80) et Défi Terre 600 €"
+   },
+   {
+    "label": "Week-ends d'entraînement",
+    "amount": 2700,
+    "detail": "3 stages en mer : location du bateau, port, carburant (900 € par stage)"
+   },
+   {
+    "label": "Équipement technique de mer",
+    "amount": 3960,
+    "detail": "18 vestes de quart étanches et respirantes, floquées (220 € l'unité)"
+   },
+   {
+    "label": "Marquage et broderie",
+    "amount": 1800,
+    "detail": "Adhésifs amovibles voiles et coque, broderie des tenues, drapeau partenaires"
+   },
+   {
+    "label": "Licences FFV",
+    "amount": 1170,
+    "detail": "18 licences de la Fédération Française de Voile (65 € l'unité)"
+   },
+   {
+    "label": "Imprévus et équipiers réservistes",
+    "amount": 1200,
+    "detail": "Casse matériel, caution, licence et équipement des réservistes"
+   }
+  ],
+  "equiv": [
+   {
+    "amount": 65,
+    "label": "une licence FFV"
+   },
+   {
+    "amount": 220,
+    "label": "une veste de quart floquée"
+   },
+   {
+    "amount": 260,
+    "label": "l'inscription d'un équipier en course"
+   },
+   {
+    "amount": 900,
+    "label": "un week-end d'entraînement en mer"
+   },
+   {
+    "amount": 6500,
+    "label": "la location du voilier habitable pour la course"
+   }
+  ]
+ },
+ "sponsors": [
+  {
+   "name": "Les Toits du Nord",
+   "year": 2026,
+   "url": "",
+   "domain": "",
+   "logo": ""
+  },
+  {
+   "name": "Aires d'entreprises",
+   "year": 2026,
+   "url": "",
+   "domain": "",
+   "logo": ""
+  },
+  {
+   "name": "Deloitte",
+   "year": 2026,
+   "url": "https://www.deloitte.com/fr/fr.html",
+   "domain": "deloitte.com",
+   "logo": ""
+  }
+ ],
+ "social": {
+  "instagramUrl": "https://www.instagram.com/icam_voile/",
+  "followers": 1400,
+  "goal": 2000,
+  "linkedin": 500
+ },
+ "tiers": [
+  {
+   "id": "Matelot",
+   "price": 1000
+  },
+  {
+   "id": "Équipier",
+   "price": 3000
+  },
+  {
+   "id": "Skipper",
+   "price": 6000,
+   "limited": true
+  },
+  {
+   "id": "Amiral",
+   "price": 10000,
+   "plus": true,
+   "limited": true
+  }
+ ],
+ "perks": [
+  [
+   "Logo sur le drapeau partenaires",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  [
+   "Remerciement sur Instagram et LinkedIn",
+   "Collectif",
+   "Dédié",
+   "Dédié",
+   "Annonce dédiée"
+  ],
+  [
+   "Diffusion de vos offres de stage et d'emploi aux élèves de l'Icam",
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   "Logo sur les vestes de quart de l'équipage",
+   0,
+   1,
+   1,
+   "Emplacement principal"
+  ],
+  [
+   "Mentions dans nos stories et vlogs pendant la course",
+   0,
+   1,
+   1,
+   1
+  ],
+  [
+   "Photos et vidéos HD de la course pour votre communication",
+   0,
+   1,
+   1,
+   1
+  ],
+  [
+   "Logo sur une voile (grand-voile ou spinnaker)",
+   0,
+   0,
+   1,
+   1
+  ],
+  [
+   "Intervention de l'équipage dans votre entreprise",
+   0,
+   0,
+   1,
+   1
+  ],
+  [
+   "Rencontre avec les étudiants sur le campus",
+   0,
+   0,
+   1,
+   1
+  ],
+  [
+   "Logo sur la coque",
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Conférence de votre entreprise devant les élèves ingénieurs",
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Visite du bateau ou sortie en mer pour vos collaborateurs",
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "sim": {
+  "surfaces": {
+   "main": {
+    "enabled": true,
+    "checked": true,
+    "scale": 90,
+    "label": "Grand-voile"
+   },
+   "spin": {
+    "enabled": true,
+    "checked": true,
+    "scale": 92,
+    "label": "Spinnaker"
+   },
+   "hull": {
+    "enabled": true,
+    "checked": true,
+    "scale": 94,
+    "label": "Coque"
+   }
+  },
+  "watermark": {
+   "enabled": true,
+   "opacity": 90,
+   "size": 13
+  },
+  "demoText": "VOTRE LOGO",
+  "demoLogo": ""
+ },
+ "youtube": "BNgGzrUfmxU",
+ "hidden": [],
+ "texts": {},
+ "images": {}
+}
